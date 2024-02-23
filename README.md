@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 <div id="header" align="center">
-  <img src="" width="200" height="150"/>
+  <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/vishwajeet-kumar-00b817239/">
