@@ -24,9 +24,9 @@
 
 <hr>
 
-### :web_dev: About Me :
+### :Tech_Enthusiast: About Me :
 👋 Hi, I’m Vishwajeet Kumar, a frontend developer and learned Data Structures and Algorithm using Java. I'm interested in Full Stack Development and love to explore different stuff.
-<img src="" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - :telescope: I’m a student and a I love exploring new fields. Currently I'm working on my React skills.
 
@@ -39,7 +39,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :Hammer_and_Wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
