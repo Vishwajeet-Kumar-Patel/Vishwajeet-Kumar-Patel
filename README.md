@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="150"/>
+  <img src="" width="200" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/vishwajeet-kumar-00b817239/">
@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/vishwajeet_kumar_patel/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/the_dead_vibe">
+  <a href="https://twitter.com/the_dead_vibe/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a><br>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -18,7 +18,7 @@
 
 <h1 align="center">
   Welcome to my space
-  <img src="https://mograph.video/2HwFiEL" width="30px"/>
+  <img src="" width="30px"/>
 </h1>
 
 
@@ -26,7 +26,7 @@
 
 ### :web_dev: About Me :
 👋 Hi, I’m Vishwajeet Kumar, a frontend developer and learned Data Structures and Algorithm using Java. I'm interested in Full Stack Development and love to explore different stuff.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="" width="30">
 <br>
 - :telescope: I’m a student and a I love exploring new fields. Currently I'm working on my React skills.
 
@@ -53,7 +53,7 @@
 
 ---
 
-### :fire: My Stats :
+### :Peace: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishwajeet-Kumar-Patel&theme=dark)](https://git.io/streak-stats)
 
@@ -62,9 +62,9 @@
 
 <!--- 👋 Hi, I’m@Vishwajeet-Kumar-Patel
 - 👀 I’m interested in learning new stuff and exploring arious field
-- 🌱 I’m currently working on front-end devolpent.
-- 💞️ I’m looking to collaborate on projects related to Java and Front End Development.
-- 📫 How to reach me ...
+-  I’m currently working on front-end devolpent.
+-  I’m looking to collaborate on projects related to Java and Front End Development.
+-  How to reach me ...
    twitter handle : @the_dead_vibe
    linkedin :  vishwajeet-kumar-00b817239
 --->
@@ -86,7 +86,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->lds.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
