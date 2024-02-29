@@ -24,7 +24,7 @@
 
 <hr>
 
-### :Tech_Enthusiast: About Me :
+### 👨‍💻: About Me :
 👋 Hi, I’m Vishwajeet Kumar, a frontend developer and learned Data Structures and Algorithm using Java. I'm interested in Full Stack Development and love to explore different stuff.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
@@ -39,7 +39,7 @@
 
 ---
 
-### :Hammer_and_Wrench: Languages and Tools :
+### 🧰: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@
 
 ---
 
-### :Peace: My Stats :
+### ⚓: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishwajeet-Kumar-Patel&theme=dark)](https://git.io/streak-stats)
 
