@@ -63,10 +63,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet-Kumar-Patel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Vishwajeet-Kumar-Patel/Vishwajeet-Kumar-Patel/output/snake.svg" alt="Snake animation" />
-
 ###
 <!--- 👋 Hi, I’m@Vishwajeet-Kumar-Patel
 - 👀 I’m interested in learning new stuff and exploring arious field
