@@ -25,16 +25,16 @@
 <hr>
 
 ### 👨‍💻: About Me :
-👋 Hi, I’m Vishwajeet Kumar, a frontend developer and learned Data Structures and Algorithm using Java. I'm interested in Full Stack Development and love to explore different stuff.
+👋 Hi, I’m Vishwajeet Kumar, a Full Stack Developer passionate about building scalable web apps and exploring the world of Game Development with Unity.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- :telescope: I’m a student and a I love exploring new fields. Currently I'm working on my React skills.
+- :telescope: Completed my Software Development Internship where I worked on real-world projects.
 
-- :seedling: Exploring Web Dev and Video Editing.
+- :seedling: Currently exploring Unity Game Development alongside advancing my full stack skills.
 
-- ⚡: I practice my coding skills on Leetcode:[![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/vishwajeet_kumar_patel/)
+- ⚡: Sharpening my problem-solving skills on LeetCode:[![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/vishwajeet_kumar_patel/)
 
-- 🏏: In my free time, I love to play Cricket.
+- 🏏: In my free time, you’ll find me playing Cricket.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-kumar-00b817239)
 
