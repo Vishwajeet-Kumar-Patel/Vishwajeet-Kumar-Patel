@@ -64,9 +64,19 @@
 
 ### ⚓: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishwajeet-Kumar-Patel&theme=dark)](https://git.io/streak-stats)
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Vishwajeet-Kumar-Patel&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=Vishwajeet-Kumar-Patel&layout=compact&show_icons=true&theme=react" alt="Vishwajeet-Kumar-Patel github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=Vishwajeet-Kumar-Patel&layout=compact&theme=react" alt="Vishwajeet-Kumar-Patel github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet-Kumar-Patel&theme=merko" alt="Vishwajeet-Kumar-Patel github readme activity graph" width="60%" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet-Kumar-Patel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet-Kumar-Patel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 <!--- 👋 Hi, I’m@Vishwajeet-Kumar-Patel
