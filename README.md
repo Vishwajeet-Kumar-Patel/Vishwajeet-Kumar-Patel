@@ -24,19 +24,21 @@
 
 <hr>
 
-### 👨‍💻: About Me :
-👋 Hi, I’m Vishwajeet Kumar, a Full Stack Developer passionate about building scalable web apps and exploring the world of Game Development with Unity.
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<br>
-- :telescope: Completed my Software Development Internship where I worked on real-world projects.
+### 👨‍💻 About Me
 
-- :seedling: Currently exploring Unity Game Development alongside advancing my full stack skills.
+👋 Hi, I’m **Vishwajeet Kumar**, a **Software Development Engineer** with a strong focus on **backend engineering, distributed systems, and AI-powered applications**.  
+I enjoy building scalable systems, working close to production, and learning by solving real engineering problems.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
-- ⚡: Sharpening my problem-solving skills on LeetCode:[![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/vishwajeet_kumar_patel/)
+- 🔭 Recently completed a **Software Development Internship**, where I worked on production-grade backend systems and real-world use cases.
+- 🧠 Actively exploring **distributed systems, system design, and AI engineering (RAG, LLMs)**.
+- 🛠️ Building with **Node.js, NestJS, Redis, PostgreSQL, AWS**, and modern backend tooling.
+- ⚡ Sharpening problem-solving skills on **LeetCode**  
+  [![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/vishwajeet_kumar_patel/)
+- 🏏 When not coding, you’ll probably find me playing **cricket**.
 
-- 🏏: In my free time, you’ll find me playing Cricket.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-kumar-00b817239)
+📫 **Connect with me:**  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-kumar-00b817239)
 
 ---
 
@@ -76,6 +78,7 @@
 
 
 ---
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajeet-Kumar-Patel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
