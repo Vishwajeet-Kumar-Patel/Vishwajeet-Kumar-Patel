@@ -14,7 +14,7 @@
   <a href="https://twitter.com/the_dead_vibe/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
    </a><br>
-  <img src="https://komarev.com/ghpvc/?Vishwajeet-Kumar-Patel&style=flat-square&color=blue"/>
+  
 </div>
 
 <h1 align="center">
