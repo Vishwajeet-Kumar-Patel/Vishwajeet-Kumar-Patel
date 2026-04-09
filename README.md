@@ -64,8 +64,6 @@ I enjoy building **intelligent systems that combine LLMs with scalable backend a
 
 ## 🔧 Technologies & Tools
 
-## 🔧 Technologies & Tools
-
 <div align="center">
 
 | Languages                                                                                                                           | Frontend Technologies                                                                                                               | Backend Technologies                                                                                                                | AI / GenAI                                                                                                                                      | Databases                                                                                                                                       | Tools & Libraries                                                                                                                           | Deployment Tools                                                                                                                      |
