@@ -34,7 +34,6 @@ I enjoy building **intelligent systems that combine LLMs with scalable backend a
 - 🧠 Exploring **Agentic AI, system design, and distributed architectures**.
 - ⚡ Sharpening problem-solving skills on **LeetCode**  
   [![Leetcode Badge](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/vishwajeet_kumar_patel/)
-- 🏏 When not coding, you’ll probably find me playing **cricket**.
 
 ---
 
